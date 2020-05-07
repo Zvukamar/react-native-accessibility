@@ -1,9 +1,15 @@
 
-# react-native-accessibility
+# react-native-modify-accessibility
+
+## Support for androidX
 
 ## Getting started
 
-`$ npm install react-native-accessibility --save`
+this repository was forked from: 
+https://github.com/MaxToyberman/react-native-accessibility
+
+`$ npm install react-native-modify-accessibility --save`
+`$ yarn add react-native-modify-accessibility`
 
 ### Mostly automatic installation
 
